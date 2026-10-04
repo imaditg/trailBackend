@@ -1,0 +1,16 @@
+{
+  "name": "firsttrail",
+  "version": "1.0.0",
+  "description": "my first trial",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1"
+  }
+}
