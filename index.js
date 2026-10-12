@@ -51,5 +51,5 @@ app.get('/contact', (req, res) => {
 })
 
 app.listen(PORT, () => {
-    console.log(`server started on ${app.get('env')} mode at https://localhost:${PORT}`)
+    console.log(`server started on ${app.get('env')} mode at http://localhost:${PORT}`)
 })
